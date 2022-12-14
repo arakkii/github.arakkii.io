@@ -1,0 +1,3 @@
+#Removes file extentions from URL
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME}.html -f
