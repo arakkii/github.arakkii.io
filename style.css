@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+.text{
+    color: #fef;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+};
+
+.starring{
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+
+}
+
+.starringimage{
+    text-align: center;
+    height: 50vh;
+    width: 35vh;
+}
